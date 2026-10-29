@@ -127,6 +127,8 @@ PostgreSQL обеспечивает поддержку ACID-транзакций
 
 UML-диаграмма:
 
+![UML-диаграмма](https://raw.githubusercontent.com/Temick2/lab1-comprehensive-Voroncov/feature/review-plan/docs/uml_diagram.png)
+
 5.2. Потенциальные Code Smells
 
 При анализе алгоритма выделены следующие потенциальные проблемы:
